@@ -18,7 +18,7 @@ Hi! I’m **decrypt64bit**, a passionate developer focused on building modern an
 ---
 
 ## 🔹 Contact
-- 📧 Email: [mg25802580pro@gmail.com](mailto:decrypt64bit@gmail.com)  
+- 📧 Email: [decrypt64bit@gmail.com](mailto:decrypt64bit@gmail.com)  
 - 🌐 Portfolio: [https://decrypt64bit.github.io/](https://decrypt64bit.github.io/)  
 - 💼 GitHub: [github.com/decrypt64bit](https://github.com/decrypt64bit)  
 
