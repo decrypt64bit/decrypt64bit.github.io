@@ -23,5 +23,3 @@ Hi! I’m **decrypt64bit**, a passionate developer focused on building modern an
 - 💼 GitHub: [github.com/decrypt64bit](https://github.com/decrypt64bit)  
 
 ---
-
-> "Engineering the future." 🚀
